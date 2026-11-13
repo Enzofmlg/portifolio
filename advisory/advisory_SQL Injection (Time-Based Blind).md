@@ -2,6 +2,17 @@
 
 **Security Assessment Report** **Target:** Modified Shop 3.3.0 rev 16825 — Admin Panel
 
+## Affected Product
+
+- **Product:** Modified Shop
+- **Version tested:** 3.3.0
+- **Revision:** 16825
+- **Affected component:** Product Tags
+- **Relevant endpoint:** `/admin/products_tags.php`
+- **Vulnerable parameter:** `option_order_by` (GET)
+- **Vulnerable source file:** `/admin/includes/modules/products_tags.php`
+- **Vendor:** `https://github.com/modified-shop/modified-shop`
+
 ## 1. Summary
 
 A Time-Based Blind SQL Injection vulnerability was identified in the product tags management module of Modified Shop 3.3.0 rev 16825.
