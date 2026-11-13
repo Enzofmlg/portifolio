@@ -151,14 +151,7 @@ $option_order_by = $allowed_order[$requested_order] ?? 'sort_order';
 
 Column names and SQL expressions are not protected by prepared statements in the same way that values are, since identifiers cannot be bound as query parameters. They must instead be validated against an allowlist before being placed into the query.
 
-## 10. Classification
-
-- **CWE-89:** Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection').
-- **Category:** SQL Injection.
-- **Confirmed technique:** Time-Based Blind.
-- **Authentication:** Administrative (authenticated).
-
-## 11. Conclusion
+## 10. Conclusion
 
 The GET parameter `option_order_by` allows injection of arbitrary SQL expressions into the `ORDER BY` clause of the query executed by the product tags management module.
 
@@ -166,7 +159,7 @@ The vulnerability was confirmed through source code review, analysis of the inpu
 
 The observed behavior confirms a Time-Based Blind SQL Injection vulnerability in an administrative feature of Modified Shop 3.3.0 rev 16825.
 
-## 12. Credits
+## 11. Credits
 
 - **Researcher:** 11Lnz – Enzo Lenzi
 - **Group:** Red Scan Academy
