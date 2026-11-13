@@ -21,16 +21,10 @@ The vulnerability arises because the GET parameter `option_order_by` is read dir
 
 Exploitation was confirmed using a conditional SQL expression that queries `information_schema.tables` and triggers a five-second delay when the condition evaluates to true.
 
-## 2. Vulnerability Identification
+## 2. Vulnerability Classification
 
 | Field | Details |
-| --- | --- |
-| Product | Modified Shop |
-| Version Tested | 3.3.0 rev 16825 |
-| Component | Product Tags |
-| Endpoint | `/admin/products_tags.php` |
-| Parameter | `option_order_by` |
-| Source | GET |
+|---|---|
 | Exploitation Method | Time-Based Blind SQL Injection |
 | CWE | CWE-89 |
 | Authentication | Required — authenticated admin session |
