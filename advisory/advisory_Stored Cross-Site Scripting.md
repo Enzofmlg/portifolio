@@ -142,7 +142,7 @@ The fix must be applied to every output of `groupname`, including the listing ro
 - Additional outputs: `src/admin/cross_sell_groups.php:212`, `218` and `225`
 - Insufficient protection: `src/inc/db_functions.inc.php:23–33`
 
-## 12. Credits
+## Credits
 
 - **Researcher:** 11Lnz – Enzo Lenzi
 - **Group:** Red Scan Academy
