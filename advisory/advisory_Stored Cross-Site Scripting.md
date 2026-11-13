@@ -1,5 +1,17 @@
 # Advisory — Stored Cross-Site Scripting in `/admin/cross_sell_groups.php`
 
+## Affected Product
+
+- **Product:** Modified Shop
+- **Version tested:** 3.3.0
+- **Revision:** 16825
+- **Affected component:** Cross-Sell Groups
+- **Relevant endpoint:** `/admin/cross_sell_groups.php`
+- **Vulnerable parameter:** `cross_sell_group_name[<language_id>]` (POST)
+- **Vulnerable source file:** `src/admin/cross_sell_groups.php`
+- **Related sanitization function:** `xtc_db_prepare_input()` (`src/inc/db_functions.inc.php`)
+- **Vendor:** `https://github.com/modified-shop/modified-shop`
+
 ## Summary
 
 The administrative endpoint `/admin/cross_sell_groups.php` allows HTML/JavaScript to be stored in the name of a cross-sell group. The value is later rendered directly on several administrative pages without HTML escaping, resulting in Stored XSS.
