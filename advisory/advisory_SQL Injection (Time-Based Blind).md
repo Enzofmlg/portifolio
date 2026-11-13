@@ -27,6 +27,7 @@ Exploitation was confirmed using a conditional SQL expression that queries `info
 |---|---|
 | Exploitation Method | Time-Based Blind SQL Injection |
 | CWE | CWE-89 |
+| Severity | Medium |
 | Authentication | Required — authenticated admin session |
 
 ## 3. Source Code Location
