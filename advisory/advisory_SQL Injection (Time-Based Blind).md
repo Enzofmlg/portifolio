@@ -159,3 +159,8 @@ The GET parameter `option_order_by` allows injection of arbitrary SQL expression
 The vulnerability was confirmed through source code review, analysis of the input filtering flow, inspection of the MariaDB general query log, and comparison of response times under normal and malicious payloads.
 
 The observed behavior confirms a Time-Based Blind SQL Injection vulnerability in an administrative feature of Modified Shop 3.3.0 rev 16825.
+
+## 12. Credits
+
+- **Researcher:** 11Lnz – Enzo Lenzi
+- **Group:** Red Scan Academy
