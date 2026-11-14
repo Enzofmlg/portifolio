@@ -46,14 +46,12 @@ root@11lnz:~# cat /etc/mindset
 > Break it to make it stronger.
 
 root@11lnz:~# ls ~/focus
-offensive-tooling/  automation/  exploit-dev/  red-team-ops/
+offensive-security/  automation/  red-team-ops/  ai-security/
 
 root@11lnz:~# _
 ```
 
 <br>
-
-<h3 align="center"><code>[ 02 // ARSENAL ]</code></h3>
 
 <!-- EDIT: adicione/remova ferramentas -->
 <div align="center">
@@ -79,12 +77,11 @@ root@11lnz:~# _
 
 <br>
 
-<h3 align="center"><code>[ 03 // DEVOPS &amp; AI SECURITY ]</code></h3>
+<h3 align="center"><code>[ 02 // DEVOPS &amp; AI SECURITY ]</code></h3>
 
 <!-- EDIT: ajuste o texto e as ferramentas conforme o que voce realmente usa -->
 ```console
 root@11lnz:~# cat ~/devsecops/README.md
-> Offensive mindset applied to the pipeline.
 > CI/CD, containers, IaC and cloud: build it, break it, harden it.
 
 root@11lnz:~# cat ~/ai-security/README.md
@@ -95,48 +92,11 @@ root@11lnz:~# cat ~/ai-security/README.md
 root@11lnz:~# _
 ```
 
-<div align="center">
-
-<code>// DEVOPS &amp; DEVSECOPS</code>
-
-<img src="https://img.shields.io/badge/Jenkins-1a0509?style=for-the-badge&logo=jenkins&logoColor=ff0033">
-<img src="https://img.shields.io/badge/GitLab_CI-1a0509?style=for-the-badge&logo=gitlab&logoColor=ff0033">
-<img src="https://img.shields.io/badge/Ansible-1a0509?style=for-the-badge&logo=ansible&logoColor=ff0033">
-<img src="https://img.shields.io/badge/Helm-1a0509?style=for-the-badge&logo=helm&logoColor=ff0033">
-<img src="https://img.shields.io/badge/Vault-1a0509?style=for-the-badge&logo=vault&logoColor=ff0033">
-<img src="https://img.shields.io/badge/Prometheus-1a0509?style=for-the-badge&logo=prometheus&logoColor=ff0033">
-<img src="https://img.shields.io/badge/Grafana-1a0509?style=for-the-badge&logo=grafana&logoColor=ff0033">
-<img src="https://img.shields.io/badge/Trivy-1a0509?style=for-the-badge&logoColor=ff0033">
-<img src="https://img.shields.io/badge/Semgrep-1a0509?style=for-the-badge&logoColor=ff0033">
-<img src="https://img.shields.io/badge/Checkov-1a0509?style=for-the-badge&logoColor=ff0033">
-
-<br>
-
-<code>// AI SECURITY &amp; RED TEAMING</code>
-
-<img src="https://img.shields.io/badge/garak-1a0509?style=for-the-badge&logoColor=ff0033">
-<img src="https://img.shields.io/badge/PyRIT-1a0509?style=for-the-badge&logoColor=ff0033">
-<img src="https://img.shields.io/badge/promptfoo-1a0509?style=for-the-badge&logoColor=ff0033">
-<img src="https://img.shields.io/badge/Adversarial_Robustness_Toolbox-1a0509?style=for-the-badge&logoColor=ff0033">
-<img src="https://img.shields.io/badge/MITRE_ATLAS-1a0509?style=for-the-badge&logoColor=ff0033">
-<img src="https://img.shields.io/badge/OWASP_LLM_Top_10-1a0509?style=for-the-badge&logo=owasp&logoColor=ff0033">
-
-<br>
-
-<code>// ML &amp; LLM STACK</code>
-
-<img src="https://img.shields.io/badge/PyTorch-1a0509?style=for-the-badge&logo=pytorch&logoColor=ff0033">
-<img src="https://img.shields.io/badge/Hugging_Face-1a0509?style=for-the-badge&logo=huggingface&logoColor=ff0033">
-<img src="https://img.shields.io/badge/LangChain-1a0509?style=for-the-badge&logo=langchain&logoColor=ff0033">
-<img src="https://img.shields.io/badge/Ollama-1a0509?style=for-the-badge&logo=ollama&logoColor=ff0033">
-
-</div>
-
 <br>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1a0509,50:ff0033,100:1a0509&height=2&section=header">
 
-<h3 align="center"><code>[ 04 // CONTACT ]</code></h3>
+<h3 align="center"><code>[ 03 // CONTACT ]</code></h3>
 
 <div align="center">
 
