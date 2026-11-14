@@ -46,7 +46,7 @@ root@11lnz:~# cat /etc/mindset
 > Break it to make it stronger.
 
 root@11lnz:~# ls ~/focus
-offensive-security/  automation/  red-team-ops/  ai-security/
+offensive-security/  automation/  red-team-ops/  ai-security/  pentesting/  network-enterprise/
 
 root@11lnz:~# _
 ```
