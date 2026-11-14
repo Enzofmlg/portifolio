@@ -52,37 +52,7 @@ root@11lnz:~# _
 
 <br>
 
-<h3 align="center"><code>[ 02 // ATTACK SURFACE ]</code></h3>
-
-<!-- EDIT: troque pelos topicos que voce realmente trabalha -->
-<table align="center">
-  <tr>
-    <td align="center" width="25%">
-      <h2>🔍</h2>
-      <b>RECON</b><br>
-      <sub>Enumeration<br>OSINT<br>Attack surface mapping</sub>
-    </td>
-    <td align="center" width="25%">
-      <h2>💥</h2>
-      <b>EXPLOITATION</b><br>
-      <sub>Web &amp; network attacks<br>Vulnerability research<br>PoC development</sub>
-    </td>
-    <td align="center" width="25%">
-      <h2>🕳️</h2>
-      <b>POST-EXPLOITATION</b><br>
-      <sub>Privilege escalation<br>Lateral movement<br>Persistence</sub>
-    </td>
-    <td align="center" width="25%">
-      <h2>📝</h2>
-      <b>REPORTING</b><br>
-      <sub>Clear write-ups<br>Risk &amp; impact<br>Remediation advice</sub>
-    </td>
-  </tr>
-</table>
-
-<br>
-
-<h3 align="center"><code>[ 03 // ARSENAL ]</code></h3>
+<h3 align="center"><code>[ 02 // ARSENAL ]</code></h3>
 
 <!-- EDIT: adicione/remova ferramentas -->
 <div align="center">
@@ -102,26 +72,9 @@ root@11lnz:~# _
 
 <br>
 
-<h3 align="center"><code>[ 04 // TELEMETRY ]</code></h3>
-
-<p align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=Enzofmlg&show_icons=true&bg_color=0a0a0f&title_color=ff0033&text_color=e6e1d8&icon_color=ff0033&ring_color=ff0033&border_color=ff0033&count_private=true&include_all_commits=true">
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enzofmlg&layout=compact&bg_color=0a0a0f&title_color=ff0033&text_color=e6e1d8&border_color=ff0033">
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Enzofmlg&background=0a0a0f&ring=ff0033&fire=ff0033&currStreakLabel=ff0033&currStreakNum=ffffff&sideNums=ffffff&sideLabels=e6e1d8&dates=8b8b8b&stroke=330009&border=ff0033">
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Enzofmlg&bg_color=0a0a0f&color=ff0033&line=ff0033&point=ffffff&area=true&area_color=ff0033&hide_border=true&custom_title=Contribution%20Graph">
-</p>
-
-<br>
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1a0509,50:ff0033,100:1a0509&height=2&section=header">
 
-<h3 align="center"><code>[ 05 // CONTACT ]</code></h3>
+<h3 align="center"><code>[ 03 // CONTACT ]</code></h3>
 
 <div align="center">
 
