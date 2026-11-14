@@ -2,8 +2,8 @@
 
 <div align="center">
 
-<!-- LOGO: hospedada no repo Enzofmlg/portifolio (pasta assets). Se o nome do arquivo for diferente, ajuste so o final da URL -->
-<img src="https://raw.githubusercontent.com/Enzofmlg/portifolio/main/assets/Logo_11Lnz.png" alt="11Lnz - Offensive Security Engineer" width="280">
+<!-- LOGO: hospedada no repo Enzofmlg/portifolio (pasta assets). Se o nome do arquivo mudar, ajuste so o final da URL (espaco = %20) -->
+<img src="https://raw.githubusercontent.com/Enzofmlg/portifolio/main/assets/Logo%2011Lnz.png" alt="11Lnz - Offensive Security Engineer" width="280">
 
 <br>
 
