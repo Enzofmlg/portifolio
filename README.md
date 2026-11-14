@@ -100,8 +100,6 @@ root@11lnz:~# _
 
 <div align="center">
 
-Open to talk about offensive security, tooling, research and collaboration.
-
 <a href="https://www.linkedin.com/in/enzo-frederico-lenzi-b838a5272/"><img src="https://img.shields.io/badge/LinkedIn-1a0509?style=for-the-badge&logo=linkedin&logoColor=ff0033"></a>
 <a href="https://www.youtube.com/@zeno-zz"><img src="https://img.shields.io/badge/YouTube-1a0509?style=for-the-badge&logo=youtube&logoColor=ff0033"></a>
 
